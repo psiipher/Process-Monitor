@@ -7,11 +7,11 @@ This scripts stores the process running in the machine with their PID, name and 
 It can be scheduled to run after a certain time interval provided by the user (should be provided in terms of minutes).
 
 To run the script:
-python3 main.py [OPTIONS]|<path>
+python3 main.py [OPTIONS] or [PATH]
  
  OPTIONS:
   -h     help
   -u     usage
   
- path:
+ PATH:
   Absolute path where you want to create the log file.
