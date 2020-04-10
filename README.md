@@ -9,9 +9,7 @@ It can be scheduled to run after a certain time interval provided by the user (s
 To run the script:
 python3 main.py [OPTIONS] or [PATH]
  
- OPTIONS:
-  -h     help
-  -u     usage
+OPTIONS:   -h help
+           -u usage
   
- PATH:
-  Absolute path where you want to create the log file.
+PATH:       Absolute path where you want to create the log file.
